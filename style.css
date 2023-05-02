@@ -22,7 +22,7 @@ section {
 
 h1 {
   font-size: 2.5rem;
-  font-family: cursive;
+  font-family: monospace;
   color: #020202;
 }
 
@@ -39,7 +39,7 @@ h1 {
 .seccion-titulo {
   font-size: 2rem;
   padding: 15px 0;
-  font-family:cursive;
+  font-family:monospace;
 }
 
 .seccion-descripcion {
@@ -90,7 +90,7 @@ h1 {
 /* Sobre mi */
 
 .sobre-mi {
-  font-family: cursive;
+  font-family: monospace;
   background-color: #632a2a;;
   height: 500px;
   padding: 10px;
@@ -150,7 +150,7 @@ h1 {
 /* Proyectos */
 
 .proyectos-recientes {
-  font-family: cursive;
+  font-family: monospace;
   padding: 40px;
   background-color: #310f0f;;
 }
@@ -258,7 +258,7 @@ h1 {
   max-width: 70%;
   font-size: 20px;
   text-align: center;
-  font-family: cursive;
+  font-family: monospace;
 }
 
 .testimonio-info {
@@ -268,7 +268,7 @@ h1 {
 
 .testimonio-info p {
   margin-bottom: 0;
-  font-family: cursive;
+  font-family: monospace;
 }
 
 .testimonio-footer .cliente {
@@ -283,7 +283,7 @@ h1 {
 /* Contacto */
 
 .contacto .container {
-  font-family: cursive;
+  font-family: monospace;
   max-width: 1100px;
   min-height: 200px;
   padding: 20px;
@@ -316,7 +316,7 @@ h1 {
   margin: 10px;
   border-radius: 100px;
   transition: all 0.2s ease-in-out;
-  font-family: cursive;
+  font-family: monospace;
 }
 
 .contacto button:hover {
@@ -352,7 +352,7 @@ footer {
   font-size: 1.5rem;
   padding: 20px;
   margin-bottom: 30px;
-  font-family: cursive;
+  font-family: monospace;
 }
 
 .iconos-redes-sociales a {
